@@ -1,5 +1,5 @@
 # study-admin-template
-
+此工程为深入学习基于vue的后台管理系统，系统开箱可用
 ## Project setup
 ```
 npm install
